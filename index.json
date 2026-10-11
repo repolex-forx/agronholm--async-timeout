@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "async-timeout",
+  "versions": [
+    {
+      "commit": "c7d61a81901dc90f8e32e4b79e81429e10a4a7df",
+      "tag": "v2.0.0",
+      "parsed_at": "2026-10-11T20:50:41.223970+00:00"
+    }
+  ]
+}
