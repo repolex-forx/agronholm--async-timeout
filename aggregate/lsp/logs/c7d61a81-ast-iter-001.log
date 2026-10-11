@@ -1,0 +1,7 @@
+[2026-10-11T20:49:25Z] === AST ITERATION 1 START | repo=agronholm/async-timeout sha=c7d61a81 ===
+[2026-10-11T20:49:25Z] [iter=1] PHASE START: ast repo=agronholm/async-timeout sha=c7d61a81
+[2026-10-11T20:49:25Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T20:49:27Z] [iter=1] AST chunks built count=1 triples=15634
+[2026-10-11T20:49:27Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/c7d61a81901dc90f8e32e4b79e81429e10a4a7df/.complete
+[2026-10-11T20:49:27Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-11T20:49:27Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
