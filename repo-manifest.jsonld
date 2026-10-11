@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/agronholm/async-timeout/commit/c7d61a81901dc90f8e32e4b79e81429e10a4a7df",
       "git:hexsha": "c7d61a81901dc90f8e32e4b79e81429e10a4a7df",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.0.0",
+      "repolex:parsedAt": "2026-10-11T20:50:41.161607+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/async-timeout/commit/c0bde97b446134aaf2b096ef783e93db5c8dd810",
